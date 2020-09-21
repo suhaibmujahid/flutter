@@ -7,3 +7,49 @@ void main() {
   // code when this happens.
   throw 'Failed';
 }
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
+
+void main() {
+  // Intentionally fail the test. We want to see driver return a non-zero exit
+  // code when this happens.
+  throw 'Failed';
+}
